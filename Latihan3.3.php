@@ -1,4 +1,12 @@
 <?php
+class Pinjaman_Online
+{
+    var $BesarPinjam;
+    var $PersentaseBunga;
+    var $TotalPinjam;
+    var $LamaAngsuran;
+    var $BesarAngsuran;
+}
 $pinjamanAwal = 1000000;
 $persentaseBunga = 10;
 $lamaAngsuran = 5;
